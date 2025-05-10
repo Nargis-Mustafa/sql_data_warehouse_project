@@ -1,0 +1,5 @@
+/*
+This scrip is execute after the Store procedure script present  in the file procedore_load_bronze.sql.
+*/
+
+exec bronze.load_bronze
