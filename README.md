@@ -14,6 +14,7 @@ This project involves:
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
 
+
 ![data architechture](https://github.com/user-attachments/assets/8fa2f095-8a14-4a7c-b446-91c092c4b299)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -38,6 +39,11 @@ Everything is for Free!
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
 - **[Notion Project Steps](https://www.notion.so/Data-Warehouse-project-1eaa6626edde800aafa1cf0e301c2b1d):** Access to All Project Phases and Tasks.
+
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 
 
